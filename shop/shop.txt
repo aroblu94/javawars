@@ -1,0 +1,12 @@
+PowerBomb.60.5000
+Graffito.30.1000
+Kabooom.45.1500
+Raggio_Stocastico.50.2000
+PizzaKebab.25.750
+MochoMacho.25.750
+Doberdan.40.1250
+Gambarang.35.1100
+BatTuta.10.500
+Alabarba_Spaziale.40.1250
+Gran_Batman.30.1000
+Arma_Letame.35.1100
